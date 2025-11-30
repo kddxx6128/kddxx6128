@@ -9,7 +9,7 @@
 <img src="https://img.shields.io/badge/CSharp-238120?style=flat-square&logo=CSharp&logoColor=white"/></a>
 
 ### Github Status
-> [![UanTan123's github status](https://github-readme-stats.vercel.app/api?username=kddxx6128)](https://github.com/kddxx6128)
+> [![kddxx6128's github status](https://github-readme-stats.vercel.app/api?username=kddxx6128)](https://github.com/kddxx6128)
 
 ### 많이 사용한 언어
 > [![많이 사용한 언어](https://github-readme-stats.vercel.app/api/top-langs/?username=kddxx6128)](https://github.com/kddxx6128)
